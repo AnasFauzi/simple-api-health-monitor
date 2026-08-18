@@ -1,4 +1,5 @@
 # Simple API Health Monitor
+![Python Tests](https://github.com/AnasFauzi/simple-api-health-monitor/actions/workflows/python-app.yml/badge.svg)
 
 A lightweight Python tool for checking website and API availability, HTTP status, and response time.
 
